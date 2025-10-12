@@ -35,16 +35,12 @@ I’m passionate about **Artificial Intelligence**, **Cloud Computing**, and **A
 - Learning **AI deployment on Cloud**  
 - Exploring **open-source contributions** related to AI/Cloud  
 
----
-
-### 📈 GitHub Stats  
-![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehulTamboli&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehulTamboli&layout=compact&theme=tokyonight)
 
 
 ---
 ### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=MehulTamboli&color=0e75b6&style=flat)
+---
 
 ### 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-tamboli)  
